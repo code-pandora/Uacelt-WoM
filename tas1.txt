@@ -1,0 +1,23 @@
+AGENDA 
+To revise Javascript.	
+Javascript Events
+Getting familiar with Strings, Arrays and Objects in Javascript
+Getting to know JSON.
+File Handling in Javascript
+Handling a user uploaded file in Javascript
+RESOURCES
+Read these in the order listed.
+https://www.geeksforgeeks.org/loops-in-javascript/ 
+https://www.educba.com/javascript-events/
+https://www.educba.com/object-in-javascript/
+https://www.educba.com/javascript-string-format/ 
+https://www.educba.com/javascript-string-functions/?source=leftnav
+https://www.educba.com/what-is-json/?source=leftnav/ 
+https://www.html5rocks.com/en/tutorials/file/dndfiles/
+https://javascript.info/file/ 
+[!OPTIONAL]https://www.programiz.com/javascript/regex 
+WEEKLY TASK 
+Create a button for a user to upload a whatsapp chat backup text file. Process that file and display it on the same HTML page. 
+[!Optional]Try to identify patterns in that txt file and then do some string processing if you like.
+You can also add your limitless creativity in the above task but only after the above functionality is in working state.
+
